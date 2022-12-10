@@ -4,8 +4,7 @@
 planning to work as an Android developer
 - 🔭 I’m currently working on my Graduation project documentation 
 - 🌱 I’m currently learning jetpack compose 
-- 😍 fan of anime, manga, valorant, and God of war
-- 🎵 imagine dragons, sia, adele
+- 😍 fan of anime, manga, valorant, and Elden ring
 - ⚡ Fun fact: i hate riot games
 
 
