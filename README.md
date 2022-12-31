@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://raw.githubusercontent.com/moha-b/moha-b/main/banner.gif)
 
-# Hi there 👋, I am Mohab <a href="https://app.daily.dev/moha-b"><img align="right" src="https://api.daily.dev/devcards/371d3a2eb3584842958cfdde02916078.png?r=fg2" width="150" alt="Mohab's Dev Card"/></a>
+# Hi there 👋, I am Mohab <a href="https://app.daily.dev/moha-b"><img align="right" src="https://api.daily.dev/devcards/371d3a2eb3584842958cfdde02916078.png?r=fg2" width="100" alt="Mohab's Dev Card"/></a>
 planning to work as an Android developer 
 - 🔭 I’m currently working on my Graduation project documentation 
 - 🌱 I’m currently learning jetpack compose 
