@@ -1,5 +1,5 @@
-# Hi there 👋, I am Mohab <a href="https://app.daily.dev/moha-b"><img align="right" src="https://api.daily.dev/devcards/371d3a2eb3584842958cfdde02916078.png?r=fg2" width="100" alt="Mohab's Dev Card"/></a>
-planning to work as an Android developer 
+# Hi there 👋, I am Mohab 
+planning to work as an Android developer <img align="right" src="https://static.wikia.nocookie.net/valorant/images/0/0b/Hold_Up_Spray.png/revision/latest/scale-to-width-down/250?cb=20210909112727"/>
 - 🔭 I’m currently working on my Graduation project
 - 🌱 I’m currently learning jetpack compose 
 - 😍 anime, manga, valorant, and Elden ring
@@ -15,5 +15,5 @@ planning to work as an Android developer
 <p align="left">
 <a href="https://linkedin.com/in/mohab-khalid-ab312422a" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohab-khalid-ab312422a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19270622" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19270622" height="30" width="40" /></a>
-<a href="https://discord.com/users/845981979391295518" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/U5B2Eyn3" height="30" width="40" /></a>
+<a href="https://discord.com/users/845981979391295518" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/U5B2Eyn3" height="30" width="40" /></a> <a href="https://app.daily.dev/moha-b"><img align="center" src="https://api.daily.dev/devcards/371d3a2eb3584842958cfdde02916078.png?r=fg2" width="40" alt="Mohab's Dev Card"/></a>
 </p>
