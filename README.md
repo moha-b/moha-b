@@ -1,5 +1,5 @@
-# Hi there 👋, I am Mohab 
-planning to work as an Android developer <img align="right" src="https://static.wikia.nocookie.net/valorant/images/0/0b/Hold_Up_Spray.png/revision/latest/scale-to-width-down/250?cb=20210909112727"/>
+# Hi there 👋, I am Mohab  <img align="right" width="350" src="https://github.com/moha-b/moha-b/blob/main/Sprays/Hold%20Up.png?raw=true"/>
+planning to work as an Android developer
 - 🔭 I’m currently working on my Graduation project
 - 🌱 I’m currently learning Unity 🎮 
 - 😍 anime, manga, valorant, and Elden ring
