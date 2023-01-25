@@ -1,7 +1,7 @@
 # Hi there 👋, I am Mohab 
 planning to work as an Android developer <img align="right" src="https://static.wikia.nocookie.net/valorant/images/0/0b/Hold_Up_Spray.png/revision/latest/scale-to-width-down/250?cb=20210909112727"/>
 - 🔭 I’m currently working on my Graduation project
-- 🌱 I’m currently learning jetpack compose 
+- 🌱 I’m currently learning Unity 🎮 
 - 😍 anime, manga, valorant, and Elden ring
 - ⚡ Fun fact: i hate riot games
 
