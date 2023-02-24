@@ -1,9 +1,9 @@
 # Hi there 👋, I am Mohab  <img align="right" width="350" src="https://github.com/moha-b/moha-b/blob/main/Valorant%20stickers/Hold%20Up.png?raw=true"/>
 planning to work as an Android developer
 - 🔭 I’m currently working on my Graduation project
-- 🌱 I’m currently learning Unity 🎮 
+- 🌱 I’m currently learning Unity <img align="Center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> 
 - 😍 anime, manga, valorant, and Elden ring
-- ⚡ Fun fact: i hate riot games
+- <img align="Center" src="https://static.wikia.nocookie.net/logopedia/images/d/de/Riot_Games_2019_%28Symbol%29.svg/revision/latest/scale-to-width-down/250?cb=20190528181216" alt="unity" width="20" height="20"/>  Fun fact: i hate riot games
 
 
 <h3 align="left">Languages and Tools:</h3>
