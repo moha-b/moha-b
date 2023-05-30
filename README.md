@@ -1,1 +1,1 @@
-![Frame 1](https://github.com/moha-b/moha-b/assets/73842931/5064cc21-fa48-4c26-ae5a-2d31dc1cfe34)
+![Frame 1](https://github.com/moha-b/moha-b/assets/73842931/432fa99f-7b38-4c47-ae1a-4b64827bbe3f)
