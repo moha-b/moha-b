@@ -59,6 +59,8 @@ Delve into Flutter notifications with a 6-minute read, offering a user-friendly 
 <br/>
 </details>
 
+<br>
+
 <details> <summary><h2>  Statistics </h2></summary>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moha-b&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />
