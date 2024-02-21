@@ -3,7 +3,8 @@
 
 👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my [Gmail](mohab.khalid.mahmoud@gmail.com)
+💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my [Gmail](mailto:mohab.khalid.mahmoud@gmail.com)
+
 . Let's connect and bring some ideas to life!🌟
 
 🔥 BANKAI
