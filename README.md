@@ -3,7 +3,7 @@
 
 👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my [Gmail](mailto:mohab.khalid.mahmoud@gmail.com)
+💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my <a href="mailto:mohab.khalid.mahmoud@gmail.com">Gmail</a>
 
 . Let's connect and bring some ideas to life!🌟
 
@@ -16,13 +16,16 @@
 ![Html](https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS-1572B6?&&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-A539F1?&&logo=kotlin&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?&logo=react&logoColor=61DAFB)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?&logo=c-sharp&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?&logo=flutter&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot_Games-D32936?&logo=riot-games&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)
@@ -30,10 +33,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white)
 ![Android-Studio](https://img.shields.io/badge/Android_Studio-3DDC84?&logo=android-studio&logoColor=white)
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&logo=intellij-idea&logoColor=white)
+![Node Js](https://img.shields.io/badge/Node.js-43853D?&logo=node.js&logoColor=white)
 ![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?&logo=jira&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?&logo=android&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-100000?&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FF7139?&logo=firebase&logoColor=white)
 
