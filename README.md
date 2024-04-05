@@ -51,6 +51,7 @@
 Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui`, `RESTful APIs`, `Cubit`, `MVVM` \
 Activities performed: Bug fixing, and interface design for mobile faithful to the design. \
 Period: May - 2023 | September - 2023
+
 <br/>
 
 [<img align="left" height="120px" width="120px" alt="Illusionaire LLC.png" src="assets/Professional experiences/Illusionaire LLC.png"/>]()
