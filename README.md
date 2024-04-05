@@ -53,6 +53,15 @@ Activities performed: Bug fixing, and interface design for mobile faithful to th
 Period: May - 2023 | September - 2023
 <br/>
 
+[<img align="left" height="120px" width="120px" alt="Illusionaire LLC.png" src="assets/Professional experiences/Illusionaire LLC.png"/>]()
+
+**Flutter Developer** \
+[**Illusionaire LLC**](https://www.illusionaire.tech/) • Contract \
+Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui` \
+Activities performed: Crafting Educational applications for children. \
+Period: Feb - 2024 | Present
+<br/>
+
 
 <details>
 <summary><h2> Blogs </h2></summary>
