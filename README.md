@@ -52,7 +52,6 @@ Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui`, `RESTful APIs`, `C
 Activities performed: Bug fixing, and interface design for mobile faithful to the design. \
 Period: May - 2023 | September - 2023
 
-<br/>
 
 [<img align="left" height="120px" width="120px" alt="Illusionaire LLC.png" src="assets/Professional experiences/Illusionaire LLC.png"/>]()
 
@@ -78,10 +77,8 @@ Delve into Flutter notifications with a 6-minute read, offering a user-friendly 
 
 <details> <summary><h2>  Statistics </h2></summary>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moha-b&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=moha-b&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats"/>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moha-b&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
-<br>
+<img align="center" width="500" height="250" src="https://github-readme-streak-stats.herokuapp.com/?user=moha-b&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />
+
+<img align="center" width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=moha-b&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats"/>
+
 </details>
