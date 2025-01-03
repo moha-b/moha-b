@@ -16,14 +16,24 @@
 
 ## Professional experiences
 
+[<img align="left" height="120px" width="120px" alt="2coom.jpeg" src="assets/Professional experiences/2coom.jpeg"/>]()
+
+**Flutter Developer** \
+[**2COOM**](https://2coom.com/) • Contract \
+Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui`, `firebase`, `Notifications`, `biometric`, `live-updates`, `in-app-updates`  \
+Activities performed: I built applications for company business, make a UI for some of these apps, fixing bugs, working with legacy code and refactor it, \
+Period: Aug - 2024 | Present
+<br/>
+<br/>
+
 
 [<img align="left" height="120px" width="120px" alt="Illusionaire LLC.png" src="assets/Professional experiences/Illusionaire LLC.png"/>]()
 
 **Flutter Developer** \
-[**Illusionaire LLC**](https://www.illusionaire.tech/) • Contract \
+[**Illusionaire LLC**](https://www.illusionaire.tech/) • Freelancer \
 Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui` \
 Activities performed: Crafting Educational applications for children. \
-Period: Feb - 2024 | Present
+Period: Feb - 2024 | Oct 2024
 <br/>
 <br/>
 
