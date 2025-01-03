@@ -1,4 +1,7 @@
-# Hello👋, I am Mohab  <img align="right" width="250" src="assets/Valorant stickers/Fascinating.png"/>
+# Hello👋, I am Mohab 
+
+ <img align="right" width="250" src="assets/Valorant stickers/Fascinating.png"/>
+
 ####
 
 👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
@@ -21,11 +24,9 @@
 **Flutter Developer** \
 [**2COOM**](https://2coom.com/) • Contract \
 Languages & Technologies: `Dart`, `Flutter`, `Responsive Ui`, `firebase`, `Notifications`, `biometric`, `live-updates`, `in-app-updates`  \
-Activities performed: I built applications for company business, make a UI for some of these apps, fixing bugs, working with legacy code and refactor it, \
+Activities performed: I built applications for company business, worked with legacy code and refactored it, \
 Period: Aug - 2024 | Present
 <br/>
-<br/>
-
 
 [<img align="left" height="120px" width="120px" alt="Illusionaire LLC.png" src="assets/Professional experiences/Illusionaire LLC.png"/>]()
 
