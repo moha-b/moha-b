@@ -15,7 +15,7 @@
 
 
 ## Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,kotlin,dart,react,bootstrap,cpp,flutter,unity,discord,github,git,githubactions,idea,java,nextjs,firebase,nodejs,npm,postman,powershell,redux,rider,cs,stackoverflow,tailwind,ts,express,notion,windows,xd,webstorm,vscode,vue,vercel,figma,androidstudio,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,dart,flutter,unity,discord,github,git,githubactions,idea,java,firebase,postman,powershell,stackoverflow,notion,windows,xd,webstorm,vscode,vue,vercel,figma,androidstudio,sqlite)](https://skillicons.dev)
 
 ## Professional experiences
 
